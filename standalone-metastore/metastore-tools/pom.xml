@@ -40,7 +40,7 @@
     <junit.platform.runner.version>1.2.0</junit.platform.runner.version>
     <junit.jupiter.api.version>5.2.0</junit.jupiter.api.version>
     <commons-math3.version>3.6.1</commons-math3.version>
-    <jetbrain-annotation.version>16.0.2</jetbrain-annotation.version>
+    <jetbrain-annotation.version>16.0.3</jetbrain-annotation.version>
     <standalone.metastore.path.to.root>..</standalone.metastore.path.to.root>
     <junit.jupiter.version>5.6.2</junit.jupiter.version>
     <junit.vintage.version>5.6.2</junit.vintage.version>
